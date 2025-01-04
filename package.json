@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "datetime",
-      "title": "Generate ISO Datetime",
+      "title": "ISO Datetime Generation",
       "description": "Generates an ISO-8601 UTC datetime string",
       "mode": "view"
     }
