@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "iso-date",
-  "title": "ISO Date",
+  "title": "ISO Date Generator",
   "description": "Generates an ISO-8601 UTC datetime string for copying to the clipboard",
   "icon": "iso-date.png",
   "author": "craig_adam",
@@ -12,7 +12,7 @@
   "commands": [
     {
       "name": "datetime",
-      "title": "ISO Datetime Generation",
+      "title": "Generate ISO Datetime",
       "description": "Generates an ISO-8601 UTC datetime string",
       "mode": "view"
     }
